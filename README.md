@@ -1,4 +1,4 @@
-# COVID-Safe-Entry-Solution-with-Automated-Door-
+# COVID Safe Entry Solution with Automated Door
 Smart Door Opening System with temperature  and distance sensor
 
 The project is designed for an automatic door-opening system using Distance and
