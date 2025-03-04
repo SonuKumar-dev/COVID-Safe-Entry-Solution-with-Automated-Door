@@ -1,5 +1,4 @@
 # COVID Safe Entry Solution with Automated Door
-Smart Door Opening System with temperature  and distance sensor
 
 The project is designed for an automatic door-opening system using Distance and
 Temperature Sensor. This project not only gets rid of the risk of allotting a person to check the temperatures of people entering the building but also creates a safe environment and reduces the risk of spreading of the covid -19
