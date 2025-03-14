@@ -63,6 +63,6 @@ Temperature Sensor This sensing signal is fed to a microcontroller to operate a 
 
 ## Feedback
 
-If you have any feedback, please reach out to us at @rocksonu12345@gmail.com
+If you have any feedback, please reach out to us at @work1.sonukumar@gmail.com
 
 
